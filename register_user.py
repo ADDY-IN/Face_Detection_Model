@@ -1,0 +1,1 @@
+#Takes user input, captures photo, stores in DB
